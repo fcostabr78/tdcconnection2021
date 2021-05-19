@@ -3,7 +3,9 @@
 ## Sala Oracle
 
 Dudas o sugerencias ? fernando.d.costa@oracle.com <br>
-Incripción para conferencistas: https://docs.google.com/forms/d/15hFMKPZfkCcfay58D2iLQLaZGRR4iRDNeZIZ2K0BunA/edit
+Haga su inscripción para conferencistas: https://docs.google.com/forms/d/15hFMKPZfkCcfay58D2iLQLaZGRR4iRDNeZIZ2K0BunA/edit
+Festival en Español y Português. 
+
 
 ### Devops
 
